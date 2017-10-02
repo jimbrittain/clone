@@ -1,0 +1,2 @@
+# clone
+Javascript clone functions
